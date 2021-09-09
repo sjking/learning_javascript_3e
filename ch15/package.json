@@ -1,0 +1,14 @@
+{
+  "name": "ch15",
+  "version": "1.0.0",
+  "description": "* https://momentjs.com/downloads/moment.js * https://momentjs.com/downloads/moment-with-locales.js",
+  "main": "moment-with-locales.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment-timezone": "^0.5.33"
+  }
+}
